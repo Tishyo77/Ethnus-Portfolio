@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ethnus-Portfolio/static/css/main.5e7c785a.css",
+    "main.js": "/Ethnus-Portfolio/static/js/main.5760adaa.js",
+    "static/js/787.0b96ccdf.chunk.js": "/Ethnus-Portfolio/static/js/787.0b96ccdf.chunk.js",
+    "static/media/Profile.jpg": "/Ethnus-Portfolio/static/media/Profile.ef70c43eb9d9e0fef6c7.jpg",
+    "index.html": "/Ethnus-Portfolio/index.html",
+    "main.5e7c785a.css.map": "/Ethnus-Portfolio/static/css/main.5e7c785a.css.map",
+    "main.5760adaa.js.map": "/Ethnus-Portfolio/static/js/main.5760adaa.js.map",
+    "787.0b96ccdf.chunk.js.map": "/Ethnus-Portfolio/static/js/787.0b96ccdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7c785a.css",
+    "static/js/main.5760adaa.js"
+  ]
+}

@@ -1,0 +1,44 @@
+.navbar 
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: rgb(255, 246, 194);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 2; 
+}
+  
+  
+.left-corner 
+{
+    margin-left: 20px;
+}
+  
+.right-corner 
+{
+    margin-right: 20px;
+}
+  
+button 
+{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    border: none;
+    color: black; 
+    background-color: rgb(255, 246, 194);
+    font-weight: bold; 
+    cursor: pointer;
+}
+  
+button:hover 
+{
+    text-decoration: none; 
+    color: white; 
+}
+  
